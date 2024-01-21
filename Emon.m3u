@@ -1,0 +1,122 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Jalsha Movies
+http://17.17.17.2/CH37-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Star Jalsha
+http://18.18.18.2/ch1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Zee Bangla
+http://17.17.17.2/CH18-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Sony Aat
+http://17.17.17.2/CH17-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Somoy Tv
+http://17.17.17.2/CH4-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Channel Eye
+http://17.17.17.2/CH65-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Channel 24
+http://17.17.17.2/CH52-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Bangla Vition
+http://17.17.17.2/CH56-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Boishakhi Tv
+http://17.17.17.2/CH7-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, News24
+http://17.17.17.2/CH8-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, DBC News
+http://17.17.17.2/CH13-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Independent Channel
+http://17.17.17.2/CH9-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Jamuna Tv
+http://17.17.17.2/CH10-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Masranga Tv
+http://17.17.17.2/CH3-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Rtv
+http://17.17.17.2/CH80-SP/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Ekhon
+http://17.17.17.2/CH81-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Green Tv
+http://17.17.17.2/CH82-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Jago News
+http://17.17.17.2/CH76-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Masranga Tv
+http://17.17.17.2/CH3-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, SATV
+http://17.17.17.2/CH5-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Ekattor Tv
+http://17.17.17.2/CH66-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Deepto Tv
+http://17.17.17.2/CH75-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Mohona Tv
+http://17.17.17.2/CH6-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, T-Sports
+http://17.17.17.2/CH53-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Gtv HD
+http://18.18.18.2/gazitv2/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Star Sports 2
+http://17.17.17.2/CH28-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Sc 1
+http://17.17.17.2/CH54-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Sc2
+http://17.17.17.2/CH55-SP/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Sony Sports 1
+http://17.17.17.2/CH29-SP/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Sony Sports 2
+http://17.17.17.2/CH27-SP/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Sony Sports 5
+http://17.17.17.2/CH38-SP/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Star Movies HD
+http://17.17.17.2/CH35-SP/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Movies HD
+http://17.17.17.2/CH64-SP/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, DW
+http://18.18.18.2/ch8/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, CN
+http://17.17.17.2/CH42-SP/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Nick HD
+http://17.17.17.2/CH44-SP/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Islamic
+http://10.0.0.10:8080/Iqra_Islamic/index.m3u8
+
+
