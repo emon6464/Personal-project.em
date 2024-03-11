@@ -119,4 +119,28 @@ http://17.17.17.2/CH44-SP/index.m3u8
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Islamic
 http://10.0.0.10:8080/Iqra_Islamic/index.m3u8
 
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, T-Sports
+http://10.0.0.10:8080/T_Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Colors Bangla
+http://10.0.0.10:8080/Colors_Bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Star Jalsha
+http://10.0.0.10:8080/Star_Jalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Zee Bangla
+http://10.0.0.10:8080/Zee_Bangla/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Zee Bangla Chenema
+http://10.0.0.10:8080/Zee_Bangla_Cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Sony Max
+http://10.0.0.10:8080/Sony_Max/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Sony
+http://10.0.0.10:8080/Sony_Entertainment/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Anondo Tv
+http://10.0.0.10:8080/Anando_TV/tracks-v1a1/mono.m3u8
+
 
